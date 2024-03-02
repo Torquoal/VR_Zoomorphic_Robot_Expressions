@@ -9,8 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylib
-/Library/ArtifactDB
+"/Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylib"
+"/Library/ArtifactDB"
+"/Library/PackageCache/com.unity.burst@1.7.3/.Runtime/hostmac/lld"
 
 # Participant Data
 /ParticipantLogs
