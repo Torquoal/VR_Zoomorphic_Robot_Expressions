@@ -3,7 +3,7 @@ PLEASE SEE A MORE RECENT VERSION OF THIS PROJECT AT THIS LINK: https://github.co
 This Unity project explores different affective expression modalities for a real-life zoomorphic robot using a virtual reality overlay. It contains scenes, GUIs and scripts that allow for systematic evaluation of the interfaces, as well as a prototyping menu where modes can be freely actuated and combined at will.
 
 <b>Click below to watch the video</b>
-[![Watch the video](https://img.youtube.com/vi/SVHohefeliU/maxresdefault.jpg)](https://youtu.be/SVHohefeliU)
+[![Watch the video](https://img.youtube.com/vi/B5ucAt7Fp0I/maxresdefault.jpg)](https://youtu.be/B5ucAt7Fp0I)
 
 **How to use:**
 
